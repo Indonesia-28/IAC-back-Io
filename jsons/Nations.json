@@ -1,0 +1,61 @@
+[
+  // What Elon Musk???
+	{
+		"name": "SpaceX", // Also Ex Aerospace.
+		"leaderName": "Elon Musk",
+		"adjective": ["Sx", "Ex"],
+	
+		"startIntroPart1": "With branches in space exploration, human-machine interface technology, clean energy production, autonomous robotics, tunnel construction, and even social media, Ex has long sought to do it all. It was an early major player in the colonization of planets beyond Earth, establishing human settlements on Mars and sending drones out across the Solar System.",
+		"startIntroPart2": "While Io is unfit for human habitation, its mineral resources make it a promising source of wealth, so Ex Aerospace has come to dig for gold, hoping to fund its ventures even further into space.",
+
+		"declaringWar": "You're impeding humanity's progress, and we won't stand for it!",
+		"attacked": "I don't think you understand who you're dealing with, here.",
+		"defeated": "We'll come back from this, just you wait and see.",
+		"introduction": "Hello, and welcome from Ex! Let's accomplish great things together!",
+		"neutralHello": "Hello!",
+		"hateHello": "What do you need?!",
+		"tradeRequest": "How would you like it if I propose this kind of deal?",
+		"outerColor": [255, 255, 255],
+        "innerColor": [0, 0, 0],
+		"uniqueName": "Self-Driven Mobility",
+		"uniques": [
+			"[{non-[Air]} {non-[Hover]}] units gain the [Self-Driven] promotion",
+			"[+2] Range <for [Air] units>"
+		],
+		"cities": [
+			"Wardenclyffe Base",
+			"Station S",
+			"Station 3",
+			"Station X",
+			"Station Y",
+			"Æ A 12",
+			"Superloop",
+			"Megafactory",
+			"Skylink",
+			"Translunar Institute of Technology and Science",
+			"Falcon Base",
+			"Foster's Church",
+			"Zip Station",
+			"Dragon Base",
+			"Solar Town",
+			"Depot of Geological Engineering",
+			"Boring Tunnel",
+			"Neural Connect",
+			"Teleforce Tower",
+			"xAurora"
+		],
+		"spyNames": ["Cher Ami", "Winkie", "Kenley Lass", "Mary", "GI Joe", "Mocker", "Paddy", "Commando", "President Wilson", "White Vision"], // pigeons in honor of Tesla
+		"civilopediaText": [
+			{
+				"text": "With branches in space exploration, human-machine interface technology, clean energy production, autonomous robotics, tunnel construction, and even social media, Ex has long sought to do it all. It was an early major player in the colonization of planets beyond Earth, establishing human settlements on Mars and sending drones out across the Solar System."
+			},
+      {
+				"text": "What Elon Musk back????"
+			},
+			{
+				"text": "While Io is unfit for human habitation, its mineral resources make it a promising source of wealth, so Ex Aerospace has come to dig for gold, hoping to fund its ventures even further into space."
+		
+			}
+		]
+  }
+]
